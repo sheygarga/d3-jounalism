@@ -55,7 +55,6 @@ function makeResponsive() {
       data.median_age = +data.median_age;
       data.education = +data.education;
       data.education = +data.obesity;
-      data.abbr = +data.abbr;
     });
 
 
